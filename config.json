@@ -1,0 +1,14 @@
+{
+"slack": {
+    "token": "",
+    "channel": ""
+},
+
+"chains": [
+    {
+       "name":"",
+       "address":"",
+       "endpoint":""
+    }
+ ]
+}
